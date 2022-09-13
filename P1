@@ -1,0 +1,19 @@
+//P1:sum of two number 
+//mohd zaid khan 
+//13-09-2022
+#include <stdio.h>
+int main() {
+    
+int a;
+int b; 
+int sum;
+printf("enter first value");
+printf("\n");
+scanf("%d",&a);
+printf ("enter secound value");
+printf("\n");
+scanf ("%d",&b);
+sum=a+b;
+printf("sum of value %d",sum);
+    
+}
